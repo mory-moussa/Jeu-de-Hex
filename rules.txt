@@ -1,0 +1,5 @@
+Les règles sont simples :
+Vert et Bleu occupent à tour de rôle une cellule et
+celui qui forme une chaîne reliant ses deux côtés opposés, 
+et empêchant ainsi l'autre de relier ses côtés, gagne.
+Bonne chance!
