@@ -1,15 +1,15 @@
 # Hex-Game
-A two player board game on a hexagonal field.
+Un jeu de plateau à deux joueurs sur un terrain hexagonal.
 
-Make an unbroken chain of hexagons connecting the sides of your colour to win.
-You can find the full rules [here](https://en.wikipedia.org/wiki/Hex_(board_game)).
+Faites une chaîne ininterrompue d'hexagones reliant les côtés de votre couleur pour gagner.
+Vous pouvez trouver le règlement complet [here](https://en.wikipedia.org/wiki/Hex_(board_game)).
 
 ## Example:
-![](/img/example.png)
+![](/example.png)
 
 ## Setup
-In order for the game to work correctly Python 3 or higher is needed. 
+Pour que le jeu fonctionne correctement, Python 3 ou supérieur est nécessaire.
 
-Required libraries: pygame
+Bibliothèques requises : pygame
 
-To start the game simply launch the HexMain.py file.
+Pour démarrer le jeu, lancez simplement le fichier HexMain.py.
