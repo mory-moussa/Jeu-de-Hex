@@ -22,8 +22,8 @@ class Game:
     def loadData(self):
         '''load all the data (images, files, etc)'''
         game_folder = path.dirname(__file__)
-        img_folder = path.join(game_folder, 'img')
-        doc_folder = path.join(game_folder, 'docs')
+        img_folder = path.join(game_folder, '')
+        doc_folder = path.join(game_folder, '')
         #------------------IMAGES------------------
         # image for tiles (optional)
         #self.tile_img = pg.image.load(path.join(img_folder, TILE_IMG)).convert_alpha()
